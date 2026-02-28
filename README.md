@@ -7,7 +7,8 @@
 
 ## 📸 Image Resizer
 
-<img width="915" height="722" alt="imagemod" src="https://github.com/user-attachments/assets/ad9dd528-99af-47c3-831c-51d7bb878925" />
+<img width="305" height="241" alt="imagemod_resized" src="https://github.com/user-attachments/assets/f848dc00-00a5-4db3-bda4-4fafc0a0cdbd" />
+
 
 A modern, simple-to-use GUI application to resize your images effortlessly.
 
