@@ -1,4 +1,16 @@
 <div align="center">
+  <a href="https://snowkills.github.io/">
+    <img src="banner.svg" alt="Matteo Montauti - visit my website snowkills.github.io" width="900" />
+  </a>
+  <p>
+    <b>🌐 <a href="https://snowkills.github.io/">snowkills.github.io</a></b> &nbsp;·&nbsp;
+    <b>📱 <a href="https://snowkills.github.io/app/">All my apps</a></b>
+  </p>
+</div>
+
+---
+
+<div align="center">
   <h1>🚀 My Open Source Programs 🚀</h1>
   <p>A collection of my desktop applications available for Windows (.exe) and Linux (.AppImage).</p>
 </div>

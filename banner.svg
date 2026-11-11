@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Matteo Montauti - snowkills.github.io">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="1" stop-color="#18181b"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16a34a"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.15" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.9" cy="0.95" r="0.6">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="r"><rect width="900" height="300" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="900" height="300" fill="url(#bg)"/>
+    <rect width="900" height="300" fill="url(#glow1)"/>
+    <rect width="900" height="300" fill="url(#glow2)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="298" rx="27" fill="none" stroke="#3f3f46" stroke-width="2"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="450" y="92" font-size="50" font-weight="800" fill="#ffffff">Matteo Montauti</text>
+    <text x="450" y="130" font-size="21" font-weight="500" fill="#60a5fa">Independent App Developer</text>
+    <text x="450" y="166" font-size="17" fill="#a1a1aa">Android apps and desktop programs for Linux and Windows, free to download</text>
+  </g>
+
+  <!-- button -->
+  <rect x="270" y="196" width="360" height="62" rx="20" fill="url(#green)"/>
+  <!-- android -->
+  <g transform="translate(298,211) scale(1.3)" fill="#ffffff">
+    <path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4483-.9993.9993-.9993c.5511 0 .9993.4483.9993.9993.0001.5511-.4482.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4483.9993.9993 0 .5511-.4483.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.2439 13.8533 7.8508 12 7.8508s-3.5902.3931-5.1367 1.0989L4.841 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3435-4.1021-2.6892-7.5743-6.1185-9.4396"/>
+  </g>
+  <text x="450" y="236" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">snowkills.github.io</text>
+  <!-- windows -->
+  <g transform="translate(579,215) scale(1)" fill="#ffffff">
+    <path d="M0 0h11.4v11.4H0zM12.6 0H24v11.4H12.6zM0 12.6h11.4V24H0zM12.6 12.6H24V24H12.6z"/>
+  </g>
+</svg>
